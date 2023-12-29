@@ -1,1 +1,1 @@
-User data update for Ubuntu hosts
+Ubuntu host user data
